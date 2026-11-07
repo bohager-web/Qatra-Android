@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="qatra_blue">#1396F3</color>
+    <color name="qatra_dark_blue">#0875C9</color>
+    <color name="qatra_light_blue">#EAF7FF</color>
+    <color name="qatra_background">#F4FBFF</color>
+    <color name="qatra_text">#16324A</color>
+    <color name="qatra_white">#FFFFFF</color>
+    <color name="qatra_launcher_background">#1396F3</color>
+</resources>

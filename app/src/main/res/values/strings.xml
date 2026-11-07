@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">قطرة</string>
+    <string name="widget_description">متابعة شرب الماء وإضافة الكمية مباشرة من الشاشة الرئيسية</string>
+    <string name="widget_add_250">+250</string>
+    <string name="widget_add_500">+500</string>
+    <string name="widget_undo">تراجع</string>
+</resources>
